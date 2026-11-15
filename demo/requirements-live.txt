@@ -1,0 +1,7 @@
+torch==2.7.1
+transformers==4.57.1
+bitsandbytes==0.46.1
+accelerate==1.10.1
+stable-baselines3==2.7.0
+gradio==5.49.1
+numpy==2.2.6
